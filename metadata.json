@@ -1,0 +1,14 @@
+{
+  "name": "jgazeley/percona_toolkit",
+  "version": "0.1.0",
+  "author": "jgazeley",
+  "summary": "Puppet module to install Percona Toolkit",
+  "license": "Apache-2.0",
+  "source": "https://github.com/djjudas21/puppet-percona_toolkit",
+  "project_page": "https://github.com/djjudas21/puppet-percona_toolkit",
+  "issues_url": "https://github.com/djjudas21/puppet-percona_toolkit/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
